@@ -1,0 +1,5 @@
+aa002a690296cb798f85e2b8fa86729f5b8d9a69a1983b99a655747184292e03  career-monitor-core-0.1.0-rc.4.zip
+44e8999c2bfd9805231a709d106734c0d78ae600a03073513074c6f5b4d838f7  career-monitor-claude-0.1.0-rc.4.zip
+8e32f1a447bf96585da7bed414451968b66c6cc0aebbf58b11e98752e3ff61c6  career-monitor-doubao-feishu-0.1.0-rc.4.zip
+f6e4a8f522f77c6d5558de99871edbd3ea552f41887f8f3c0ebecec98e45b96d  career-monitor-openai-plugin-0.1.0-rc.4.zip
+9f4cad47e75e50d9a5fba86a09252c3eed8f667748c0a07f70dd17ae4eb9cf0e  career-monitor-doubao-feishu-0.1.0-rc.4-SKILL.md
