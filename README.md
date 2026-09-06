@@ -32,13 +32,18 @@ Public Beta 的目的就是让作者和真实候选人共同完成三端实际�
 
 ## 下载
 
-当前 Beta 下载文件位于 [`downloads/0.1.0-rc.4/`](./downloads/0.1.0-rc.4/)：
+**正式 ZIP 下载将通过 GitHub Release `v0.1.0-rc.4` 提供。** 当前仓库已经发布三端安装说明、SHA-256 和飞书单文件 Skill；四个 ZIP Release assets 仍需在 GitHub Release 页面完成一次手工上传。
+
+计划中的 Release assets：
 
 - OpenAI：`career-monitor-openai-plugin-0.1.0-rc.4.zip`
 - Claude：`career-monitor-claude-0.1.0-rc.4.zip`
 - 豆包 + 飞书：`career-monitor-doubao-feishu-0.1.0-rc.4.zip`
-- 飞书单文件入口：`career-monitor-doubao-feishu-0.1.0-rc.4-SKILL.md`
 - Core：`career-monitor-core-0.1.0-rc.4.zip`
+
+已可直接查看/下载：
+
+- 飞书单文件 Skill：[`career-monitor-doubao-feishu-0.1.0-rc.4-SKILL.md`](./downloads/0.1.0-rc.4/career-monitor-doubao-feishu-0.1.0-rc.4-SKILL.md)
 - SHA-256：[`checksums.txt`](./checksums.txt)
 
 ## 三端安装
